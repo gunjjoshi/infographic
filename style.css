@@ -1,0 +1,21 @@
+.lawn{
+    width: 1200px;
+    height: 700px;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+}
+.fz{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+}
+.node{
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+}
